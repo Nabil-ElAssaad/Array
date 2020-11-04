@@ -1,2 +1,2 @@
-# Array
-Array and Arraylist
+# Data Structure code practicing 
+
